@@ -1,9 +1,9 @@
 # Neural Style Transfer
-Implementation of Neural Style Transfer in Pytorch :heart:
+IMPLEMENTATION  OF NEURAL STYLE TRANSFER IN Pytorch :heart:
 
 Here, I have tried to implement the Neural Style Transfer with some modifications from [Gatys et al.](https://arxiv.org/abs/1508.06576).  
 
-Below is a result, where I used picture of Lauren Mayberry for Content Image and One of the Vincent Van Gogh's painting as the style image and the result turned out to be pretty good painting of Lauren Mayberry in Van Gogh painting style.  
+Below result is given , where I used picture of Lauren Mayberry for Content Image and One of the Vincent Van Gogh's painting as the style image and the result turned out to be pretty good painting of Lauren Mayberry in Van Gogh painting style.  
 ![Neural Style Transfer](./ims/style_transfer.png)
 
 ### Files
